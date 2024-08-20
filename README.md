@@ -1,5 +1,4 @@
-# Unix_Shell
-## CS 537 Project 3 -- Shell
+# CS 537 Project 3 -- Shell
 
 ## Administrivia
 
